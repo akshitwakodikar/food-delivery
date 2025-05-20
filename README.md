@@ -13,10 +13,10 @@
 
 
 <p align="center">
-    ![Banking App Screenshot](src= homepage.png)
-    ![Banking App Screenshot](cart.png)
-    ![Banking App Screenshot](adminpage.png)
-    ![Banking App Screenshot](order.png)
+  <img src="homepage.png" alt="Homepage Screenshot" width="300"/>
+  <img src="cart.png" alt="Cart Screenshot" width="300"/>
+  <img src="adminpage.png" alt="Admin Page Screenshot" width="300"/>
+  <img src="order.png" alt="Order Screenshot" width="300"/>
 </p>
 
 # Installation
