@@ -2,10 +2,10 @@
 <h1 align="center">Food Delivery</h1>
 
 <p align="center">
-  <img src="homepage.png" alt="Homepage Screenshot" width="300"/><br>
-  <img src="cart.png" alt="Cart Screenshot" width="300"/><br>
-  <img src="adminpage.png" alt="Admin Page Screenshot" width="300"/><br>
-  <img src="order.png" alt="Order Screenshot" width="300"/>
+  <img src="homepage.png" alt="Homepage Screenshot" width="500"/><br>
+  <img src="cart.png" alt="Cart Screenshot" width="500"/><br>
+  <img src="adminpage.png" alt="Admin Page Screenshot" width="500"/><br>
+  <img src="order.png" alt="Order Screenshot" width="500"/>
 </p>
 
 # Installation
