@@ -1,16 +1,5 @@
 
 <h1 align="center">Food Delivery</h1>
-  
-  
-  <p align="center">
-    
-
-    
-  </p>
-
-
-![Picture](https://raw.githubusercontent.com/fr0st-iwnl/assets/main/thumbnails/tomato.png)
-
 
 <p align="center">
   <img src="homepage.png" alt="Homepage Screenshot" width="300"/>
