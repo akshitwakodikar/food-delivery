@@ -13,7 +13,7 @@
 
 
 <p align="center">
-    ![Banking App Screenshot](homepage.png)
+    ![Banking App Screenshot](src= homepage.png)
     ![Banking App Screenshot](cart.png)
     ![Banking App Screenshot](adminpage.png)
     ![Banking App Screenshot](order.png)
