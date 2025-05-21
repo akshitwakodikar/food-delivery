@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: food-delivery
+    env: node
+    rootDir: Backend
+    buildCommand: npm run build:frontend
+    startCommand: npm start
