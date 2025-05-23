@@ -5,13 +5,13 @@ import foodRouter from "./routes/foodRoute.js";
 import userRouter from "./routes/userRoute.js";
 import cartRouter from "./routes/cartRoute.js";
 import orderRouter from "./routes/orderRoute.js";
-import "dotenv/config.js";
+import "dotenv/config";
 import path from "path";
 import { fileURLToPath } from "url";
 
-// Helper to get __dirname in ES Module
+// ES Module-compatible __dirname
 const __filename = fileURLToPath(import.meta.url);
-const _dirname = path.dirname(_filename);
+const __dirname = path.dirname(__filename);
 
 // App config
 const app = express();
@@ -31,7 +31,7 @@ app.use("/api/user", userRouter);
 app.use("/api/cart", cartRouter);
 app.use("/api/order", orderRouter);
 
-// Serve frontend (React)
+// Serve frontend (React build)
 const frontendPath = path.join(__dirname, "../Frontend/dist");
 app.use(express.static(frontendPath));
 
