@@ -44,4 +44,5 @@ npm run server
 
 - [ ] Remember to include your Database in db.js and your Stripe Secret Key in .env
 "# food-delivery" 
-# food-delivery
+# Live Demo
+Check out the live demo of this project [here](https://food-delivery-5wdf.onrender.com) .
