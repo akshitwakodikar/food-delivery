@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build:frontend": "npm install --prefix ../Frontend && npm run build --prefix ../Frontend",
-    "postinstall": "npm install"
+    "build:frontend": "npm install --prefix ../Frontend && npm run build --prefix ../Frontend"
   },
   "dependencies": {
     "cors": "^2.8.5",
