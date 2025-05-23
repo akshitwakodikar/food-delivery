@@ -3,5 +3,5 @@ services:
     name: food-delivery-backend
     env: node
     rootDir: Backend
-    buildCommand: npm install && npm run build:frontend
+    buildCommand: cd Backend && npm install && npm run build:frontend
     startCommand: npm start
